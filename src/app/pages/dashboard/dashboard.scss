@@ -1,6 +1,6 @@
 @media screen and (min-width: 1620px) {
   .row.shift-up {
-    > * {
+    >* {
       margin-top: -573px;
     }
   }
@@ -20,4 +20,29 @@
 
 .blurCalendar {
   height: 475px;
+}
+
+////////////////////////////////////////
+.btn,
+.btn:hover,
+.btn:focus .open>.btn.dropdown-toggle:hover,
+.btn.btn-default,
+.btn.btn-default:hover {
+  background-color: #ffffff00 !important;
+  color: rgb(34, 143, 34) !important;
+}
+
+.addBTN {
+  background-color: #ffffff00;
+  color: rgb(34, 143, 34);
+  border-color: rgb(34, 143, 34);
+  border-radius: 4rem;
+  border: 2px solid;
+  font-size: 1.2rem;
+}
+
+.elipisit {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }

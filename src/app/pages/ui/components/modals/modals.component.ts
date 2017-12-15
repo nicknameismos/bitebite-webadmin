@@ -13,7 +13,7 @@ export class Modals {
 
   lgModalShow() {
     const activeModal = this.modalService.open(DefaultModal, {size: 'lg'});
-    activeModal.componentInstance.modalHeader = 'Large Modal';
+    activeModal.componentInstance.modalHeader = 'นำเข้าร้านค้าจาก Facebook';
   }
   smModalShow(): void {
     const activeModal = this.modalService.open(DefaultModal, {size: 'sm'});

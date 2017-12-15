@@ -1,0 +1,121 @@
+{
+  "name": [
+    "รายการร้านค้า",
+    "ร้านค้าใหม่",
+    "OFFICIAL",
+    "ร้านฝากซื้อ"
+  ],
+  "pagings": [
+    1,
+    2,
+    3
+  ],
+  "items": [{
+      "address": {
+        "address": "2B-19 อาคาร MBK ชั้น 2 ถนน พญาไท แขวง วังใหม่ เขต ปทุมวัน",
+        "lat": "13.7445702",
+        "lng": "100.53027750000001"
+      },
+      "coverimage": "https://lh3.googleusercontent.com/p/AF1QipPZvqyB25aS2-00RZrdI6-dotggpWH4kRGK4N9w=w318-h180-k",
+      "created": "2017-12-06T08:40:51.519Z",
+      "detail": "",
+      "email": "followingkon@gmail.com",
+      "facebook": "",
+      "importform": "Google",
+      "isactiveshop": false,
+      "issendmail": true,
+      "line": "",
+      "name": "Coffee World",
+      "name_eng": "",
+      "promoteimage": [],
+      "tel": "0899999999",
+      "times": [],
+      "user": {
+        "_id": "5a2913402a8be6130029036d",
+        "firstName": "Coffee World"
+      },
+      "__v": 0,
+      "_id": "5a27ad13bce6f61300ddb9b4"
+    },
+    {
+      "address": {
+        "address": "68/51 ซอยเพชรบุรี 5 ถนนเพชรบุรี แขวงทุ่งพญาไท เขตราชเทวี",
+        "lat": "13.7559375",
+        "lng": "100.52947979999999"
+      },
+      "coverimage": "https://lh3.googleusercontent.com/p/AF1QipPjC6xs5mHk2K2I0QNhT-SSZBQ9VeSK1iSh8Zw=w318-h180-k",
+      "created": "2017-12-07T07:41:03.671Z",
+      "detail": "",
+      "email": "",
+      "facebook": "",
+      "importform": "Google",
+      "isactiveshop": false,
+      "issendmail": false,
+      "line": "",
+      "name": "ร้านพี่อ้อ",
+      "name_eng": "",
+      "promoteimage": [],
+      "tel": "+66 2 612 9013",
+      "times": [],
+      "user": {
+        "_id": "5a1cffbd439a4f1300d1e4b9",
+        "firstName": "admin"
+      },
+      "__v": 0,
+      "_id": "5a28f08f36c42b1300aae6c5"
+    },
+    {
+      "address": {
+        "address": "Rama I Road, Pathum Wan",
+        "lat": "13.7443878",
+        "lng": "100.53299379999999"
+      },
+      "coverimage": "https://lh3.googleusercontent.com/p/AF1QipOtvRYRWrD14ovkI16KxWMNVAevEXfqeGA5RPqf=w318-h180-k",
+      "created": "2017-12-07T07:40:05.998Z",
+      "detail": "",
+      "email": "",
+      "facebook": "",
+      "importform": "Google",
+      "isactiveshop": false,
+      "issendmail": false,
+      "line": "",
+      "name": "ร้าน ก๋วยเตี๋ยวดู๋ดี๋สยาม",
+      "name_eng": "",
+      "tel": "",
+      "times": [],
+      "user": {
+        "_id": "5a1cffbd439a4f1300d1e4b9",
+        "firstName": "admin"
+      },
+      "_id": "5a28f05536c42b1300aae6c3"
+    },
+    {
+      "address": {
+        "address": "519 Silom Rd, Khwaeng Silom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+        "lat": "13.7257861",
+        "lng": "100.52679760000001"
+      },
+      "categories": "5a1fdfd876ee471300b2c8f1",
+      "coverimage": "https://images.unsplash.com/photo-1470219556762-1771e7f9427d?auto=format&fit=crop&w=889&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "created": "2017-12-07T07:35:44.976Z",
+      "detail": "ssd",
+      "email": "sdsds@g.com",
+      "facebook": "23231",
+      "importform": "manual",
+      "isactiveshop": false,
+      "issendmail": false,
+      "line": "23232312",
+      "name": "ss",
+      "name_eng": "sss",
+      "promoteimage": [],
+      "tel": "002232323",
+      "times": [],
+      "user": {
+        "_id": "5a1cffbd439a4f1300d1e4b9",
+        "firstName": "admin"
+      },
+      "__v": 0,
+      "_id": "5a28ef5036c42b1300aae6be"
+    }
+  ]
+}
